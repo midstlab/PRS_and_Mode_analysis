@@ -14,7 +14,7 @@ This code enables the monitoring of conformational changes  and facilitates the 
 
 # Mode Analysis
 
-This code facilitates the calculation of dominant motions with principal component analysis.
+This code facilitates the calculation of dominant motions with principal component analysis.(Bakan & Bahar, 2011)
 ### This code made by using Jupyter Notebook and works as follows,
 
 1. PDB and DCD files should be placed to parse PDB file and parse DCD file on it. (In this example, input files are: initial.pdb and initial.dcd) 
