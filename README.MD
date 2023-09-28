@@ -1,8 +1,8 @@
 
-In these codes,  a trajectory of a 40ns long MD simulation of calmodulin (CaM) is given as an example.(Atilgan & Atilgan, 2009)
+In these codes,  a trajectory of a 40ns long MD simulation of calmodulin (CaM) is given as an example.x
 
 # PRS
-This code enables the monitoring of conformational changes  and facilitates the study of the mechanisms underlying these shifts in conformation.
+This code enables the monitoring of conformational changes  and facilitates the study of the mechanisms underlying these shifts in conformation.(Atilgan & Atilgan, 2009)
 ### Code works as follows,
 1. In this Jupyter Notebook code, PDB and DCD files of the initial structure should be provided.(In this example, initial.pdb and initial.dcd) 
 2. Carbon alpha atoms should be selected as "calpha"
