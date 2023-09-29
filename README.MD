@@ -19,7 +19,7 @@ This code facilitates the calculation of dominant motions with principal compone
 
 1. PDB and DCD files should be placed to parse PDB file and parse DCD file on it. (In this example, input files are: initial.pdb and initial.dcd) 
 2. Carbon alpha atoms should be selected as "calpha"
-2. This code provides both calculation of normal modes and creation of cross correlation matrix to use further analysis.
+2. This code provides both calculation of normal modes and generation of cross correlation matrix to use further analysis.
 3. The output files of this code should include cross correlation plot, nmd and eigenvalue contribution files. (In this example, cross_corr.dat, protein_pca.nmd, protein_eigvals_contribution.dat, protein_correlation.png)
 4. Modes can be visualised using the VMD plugin(Normal Mode wizard) with nmd output. 
 
